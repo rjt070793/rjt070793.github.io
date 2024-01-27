@@ -11,7 +11,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     font-family: 'Rubik', sans-serif;
 }
 
@@ -29,6 +29,7 @@ a {
 }
 
 .wrapper {
+    overflow-y: auto;
     display: grid;
     grid-template-columns: 1fr 4fr;
     background-color: var(--clr-main);
