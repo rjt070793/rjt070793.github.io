@@ -1,35 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PE | LIGA 1 MAX" tvg-tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="PERÚ",PE | LIGA 1 MAX OP2
-http://161.132.108.75:50001/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | LIGA 1 MAX OP2" tvg-tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="PERÚ",PE | LIGA 1 MAX OP2
-http://177.53.153.20:8001/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E01" group-title="SERIES" tvg-logo="https://i.mydramalist.com/wJn3L8_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E01
-https://archive.org/download/tt29899652/tt29899652-T1.E01-tt29899998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E02" group-title="SERIES" tvg-logo="https://i.mydramalist.com/4epNzr_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E02
-https://archive.org/download/tt29899652/tt29899652-T1.E02-tt29899999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E03" group-title="SERIES" tvg-logo="https://i.mydramalist.com/rNm3Lg_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E03
-https://archive.org/download/tt29899652/tt29899652-T1.E03-tt29900000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E04" group-title="SERIES" tvg-logo="https://i.mydramalist.com/0wp85e_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E04
-https://archive.org/download/tt29899652/tt29899652-T1.E04-tt29900001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E05" group-title="SERIES" tvg-logo="https://i.mydramalist.com/d0dDrW_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E05
-https://archive.org/download/tt29899652/tt29899652-T1.E05-tt29900003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E06" group-title="SERIES" tvg-logo="https://i.mydramalist.com/4epWyJ_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E06
-https://archive.org/download/tt29899652/tt29899652-T1.E06-tt29900004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E07" group-title="SERIES" tvg-logo="https://i.mydramalist.com/pdvekn_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E07
-https://archive.org/download/tt29899652/tt29899652-T1.E07-tt29900006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E08" group-title="SERIES" tvg-logo="https://i.mydramalist.com/pdvPZE_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E08
-https://archive.org/download/tt29899652/tt29899652-T1.E08-tt29900007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E09" group-title="SERIES" tvg-logo="https://i.mydramalist.com/E5lOnp_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E09
-https://archive.org/download/tt29899652/tt29899652-T1.E09-tt29900009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E10" group-title="SERIES" tvg-logo="https://i.mydramalist.com/Bd2O41_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E10
-https://archive.org/download/tt29899652/tt29899652-T1.E10-tt29900013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E11" group-title="SERIES" tvg-logo="https://i.mydramalist.com/WPmLLD_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E11
-https://archive.org/download/tt29899652/tt29899652-T1.E11-tt29900015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E12" group-title="SERIES" tvg-logo="https://i.mydramalist.com/qYOmmz_3m.jpg" group-title="Zona SERIE",  Night Has Come S01 E12
-https://archive.org/download/tt29899652/tt29899652-T1.E12-tt29900016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="IRON MAN" group-title="" tvg-logo="https://i.mydramalist.com/wJn3L8_3m.jpg" group-title="Zona MOV",  IRON MAN
-https://archive.org/download/trailer-ir0nM4n/Iron%20Man%203_%20Tr%C3%A1iler%202%20Oficial%20Doblado%20--%20Latinoam%C3%A9rica-%281080p%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="IRON MAN1" group-title="SERIES" tvg-logo="https://i.mydramalist.com/wJn3L8_3m.jpg" group-title="Zona MOV",  IRON MAN
-https://archive.org/download/trailer-ir0nM4n/Iron%20Man%203_%20Tr%C3%A1iler%202%20Oficial%20Doblado%20--%20Latinoam%C3%A9rica-%281080p%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="IRON MAN1" tvg-logo="https://i.mydramalist.com/wJn3L8_3m.jpg" group-title="Zona MOV",  IRON MAN
-https://archive.org/download/trailer-ir0nM4n/Iron%20Man%203_%20Tr%C3%A1iler%202%20Oficial%20Doblado%20--%20Latinoam%C3%A9rica-%281080p%29.mp4
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,MOVISTAR DEPORTE FHD
+http://190.108.85.20:9999/play/a022
+#EXTINF:-1,GOL PERU HD
+http://177.53.153.20:8001/play/a03z
+#EXTINF:-1,AMC
+http://138.59.177.34:8000/play/a033/index.m3u8
+#EXTINF:-1,AMERICA TV
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1,LATINA
+http://177.53.153.20:8001/play/a03x/index.m3u8
+#EXTINF:-1,PANAMERICANA
+https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://177.53.153.20:8001/play/a02i/index.m3u8
+#EXTINF:-1,ESPN
+http://190.108.85.20:9999/play/a00a
+#EXTINF:-1,ESPN 2
+http://190.108.85.20:9999/play/a018
+#EXTINF:-1,ESPN 3
+http://177.53.153.20:8001/play/a02c/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.61.43.117:45000/play/a01v
+#EXTINF:-1,ESPN 5
+http://190.108.85.20:9999/play/a029
+#EXTINF:-1,ESPN 6
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1,ESPN 7
+http://190.61.43.117:45000/play/a01g
+#EXTINF:-1,ESPN PREMIUN
+http://190.108.85.20:9999/play/a011
