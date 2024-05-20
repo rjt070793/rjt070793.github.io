@@ -18,6 +18,10 @@ http://177.53.153.20:8001/play/a0ba/index.m3u8
 http://177.53.153.20:8001/play/a0zq/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01d.png",RPP
 http://177.53.153.20:8001/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ij.png",TV PERU TRANSCODING
+http://177.53.153.20:8001/play/a0ij/index.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0yy.png",TV Peru SD
+http://177.53.153.20:8001/play/a0yy/index.m3u8
 #EXTINF:-1,021 - RPP HD
 http://161.132.108.74:50001/play/a02n/index.m3u8
 #EXTINF:-1,022 - Canal N HD
@@ -436,10 +440,6 @@ http://177.53.153.20:8001/play/a0tp/index.m3u8
 http://177.53.153.20:8001/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02k.png",TRUTV HD
 http://177.53.153.20:8001/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ij.png",TV PERU TRANSCODING
-http://177.53.153.20:8001/play/a0ij/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0yy.png",TV Peru SD
-http://177.53.153.20:8001/play/a0yy/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a034.png",TV+ HD
 http://177.53.153.20:8001/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0sp.png",TVChile
