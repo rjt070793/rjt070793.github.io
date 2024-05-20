@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0yt.png",Latina
+http://177.53.153.20:8001/play/a0yt/index.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0sj.png",Latina HD
+http://177.53.153.20:8001/play/a0sj/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0yu.png",America TV
 http://177.53.153.20:8001/play/a0yu/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0si.png",America TV HD
@@ -320,10 +324,6 @@ http://177.53.153.20:8001/play/a024/index.m3u8
 http://177.53.153.20:8001/play/a0db/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0zh.png",Las Estrellas HD
 http://177.53.153.20:8001/play/a0zh/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0yt.png",Latina
-http://177.53.153.20:8001/play/a0yt/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0sj.png",Latina HD
-http://177.53.153.20:8001/play/a0sj/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a042.png",Lolly Kids HD
 http://177.53.153.20:8001/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bo.png",Love Nature HD
