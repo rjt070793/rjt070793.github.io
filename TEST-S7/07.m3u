@@ -14,6 +14,10 @@ http://177.53.153.20:8001/play/a0yv/index.m3u8
 http://177.53.153.20:8001/play/a0yr/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0yw.png",ATV
 http://177.53.153.20:8001/play/a0yw/index.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0yw.png",ATV 720p
+http://170.81.241.222:65535/play/a06a/index.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0yw.png",ATV
+http://170.81.241.222:1/play/a06a/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0e6.png",ATV + HD
 http://177.53.153.20:8001/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ba.png",ATV SUR 
@@ -48,6 +52,8 @@ http://177.53.153.20:8001/play/a00h/index.m3u8
 http://161.132.108.74:50001/play/a01d/index.m3u8
 #EXTINF:-1,105.1 - Movistar Deportes HD
 http://170.81.241.222:2/play/a05e/index.m3u8
+#EXTINF:-1,105.2 - Movistar Deportes HD
+http://170.81.241.222:1/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ca.png",Movistar Deportes HD
 http://177.53.153.20:8001/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0em.png",DIRECTV SPORTS
@@ -194,6 +200,8 @@ http://177.53.153.20:8001/play/a0wg/index.m3u8
 http://177.53.153.20:8001/play/a0wi/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0uh.png",Canal Claro HD
 http://177.53.153.20:8001/play/a0uh/index.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bd.png",Canal N
+http://170.81.241.222:65535/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bd.png",Canal N
 http://177.53.153.20:8001/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04a.png",Caracol HD
