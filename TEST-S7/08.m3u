@@ -1,137 +1,50 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="2545" group="TV", LATINA
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", PANAMERICANA | PE
-https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=kBUtINWvIwnp6RQVQFjri7XKVMn_NUX2TBQAmk4W9RzwLmP3ha00DRGbzrqXFxRc&dmTs=323482&dmV1st=4dc17ff5-019d-4bc1-861a-40384efe279f
-#EXTINF:0 type="stream" channelId="2541" group="TV", TVPERU
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-#EXTINF:0 type="stream" channelId="2542" group="TV", TV PERU INTERNACIONAL
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-#EXTINF:0 type="stream" channelId="2550" group="TV", ATV | PE
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="4794" group="TV", ATV SUR | PE
-https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="2549" group="TV", ATV+ | PE
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="-1" group="TV", WILAX | PE
-http://187.102.208.108:50001/play/a028/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", NATIVA TV | PE
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", OVACION | PE
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="-1" group="TV", CONTACTO DEPORTIVO
-https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0&PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="188" group="TV", SONY CHANNEL
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/27197
-#EXTINF:0 type="stream" channelId="40" group="TV", CARTOON NETWORK
-http://home-playtv.com:8080/Tvperu/RRVXA/198403
-#EXTINF:0 type="stream" channelId="40" group="TV", CARTOON NETWORK 1
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:0 type="stream" channelId="40" group="TV", CARTOON NETWORK 2
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", CARTONITO
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", SONY CANAL NOVELAS
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", DISCORERY KIDS LATAM
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1954" group="TV", LAS ESTRELLAS
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0 type="stream" channelId="3729" group="TV", AZTECA INTERNACIONAL
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", canal de las estrella
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1686" group="TV", GOL TV
-http://45.166.92.22:58001/play/a04k/index.m3u8
-#EXTINF:0 type="stream" channelId="19" group="TV", DISNEY
-http://45.166.92.22:58001/play/a04q/index.m3u8
-#EXTINF:0 type="stream" channelId="1208" group="TV", A&E
-http://45.166.92.22:58001/play/a00p/index.m3u8
-#EXTINF:0 type="stream" channelId="2501" group="TV", AMC
-http://45.166.92.22:58001/play/a00q/index.m3u8
-#EXTINF:0 type="stream" channelId="1573" group="TV", AXN
-http://45.166.92.22:58001/play/a02n/index.m3u8
-#EXTINF:0 type="stream" channelId="50" group="TV", ANIMAL PLANET
-http://45.166.92.22:58001/play/a00m/index.m3u8
-#EXTINF:0 type="stream" channelId="2505" group="TV", DISCOVERY KIDS
-http://45.166.92.22:58001/play/a04y/index.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="TV", ESPN
-http://45.166.92.22:58001/play/a01g/index.m3u8
-#EXTINF:0 type="stream" channelId="355" group="TV", ESPN 3
-http://45.166.92.22:58001/play/a01h/index.m3u8
-#EXTINF:0 type="stream" channelId="1432" group="TV", ESPN 4
-http://45.166.92.22:58001/play/a02m/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", FOX SPORT 3
-http://45.166.92.22:58001/play/a01j/index.m3u8
-#EXTINF:0 type="stream" channelId="1455" group="TV", HISTORY
-http://45.166.92.22:58001/play/a038/index.m3u8
-#EXTINF:0 type="stream" channelId="2557" group="TV", WARNER
-http://45.166.92.22:58001/play/a049/index.m3u8
-#EXTINF:0 type="stream" channelId="188" group="TV", SONY
-http://45.166.92.22:58001/play/a04a/index.m3u8
-#EXTINF:0 type="stream" channelId="3209" group="TV", UNIVISION
-http://45.166.92.22:58001/play/a01r/index.m3u8
-#EXTINF:0 type="stream" channelId="3802" group="TV", TyCSports HD
-http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:0 type="stream" channelId="1967" group="TV", TELEMUNDO
-http://45.166.92.22:58001/play/a00r/index.m3u8
-#EXTINF:0 type="stream" channelId="64" group="TV", CINECANAL SD
-http://45.166.92.22:58001/play/a02f/index.m3u8
-#EXTINF:0 type="stream" channelId="321" group="TV", BOOMERANG
-http://45.166.92.22:58001/play/a02u/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", DHE HD
-http://45.166.92.22:58001/play/a00v/index.m3u8
-#EXTINF:0 type="stream" channelId="2558" group="TV", DISCOVERY THEATER HD
-http://45.166.92.22:58001/play/a014/index.m3u8
-#EXTINF:0 type="stream" channelId="1972" group="TV", CNN Español
-http://45.166.92.22:58001/play/a036/index.m3u8
-#EXTINF:0 type="stream" channelId="1330" group="TV", HBO HD
-http://45.166.92.22:58001/play/a03s/index.m3u8
-#EXTINF:0 type="stream" channelId="2585" group="TV", HBO PLUS HD
-http://45.166.92.22:58001/play/a03u/index.m3u8
-#EXTINF:0 type="stream" channelId="1202" group="TV", HISTORY 2 HD
-http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:0 type="stream" channelId="288" group="TV", HTV
-http://45.166.92.22:58001/play/a051/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", HBO XTREME HD
-http://45.166.92.22:58001/play/a03w/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", PARAMOUNT HD
-http://45.166.92.22:58001/play/a01l/index.m3u8
-#EXTINF:0 type="stream" channelId="3781" group="TV", PASIONES HD
-http://45.166.92.22:58001/play/a01q/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", RCN Mas
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", Pandamax Channel (1080p)
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV", COMEDY CENTRAL | 1080P
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/27142
-#EXTINF:0 type="stream" channelId="-1" group="TV", DISNEY CHANNEL | 1080P
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/27183
-#EXTINF:0 type="stream" channelId="-1" group="TV", TNT | 720P
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/27209
-#EXTINF:0 type="stream" channelId="4668" group="TV", TNT SPORTS
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/27211
-#EXTINF:0 type="stream" channelId="-1" group="PELICULAS" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdk015b9zxIwipDcXBZQMK6NCXN.jpg", El protector (The Keeper) (2009)
-https://archive.org/download/tt1296869/tt1296869.mkv
-#EXTINF:0 type="stream" channelId="-1" group="PELICULAS" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcuHdnVtAOsbvE93bN9MhiBVF0J.jpg", Django: la otra cara (2002)
-https://archive.org/download/tt0327646/tt0327646.mp4
-#EXTINF:0 type="stream" channelId="-1" group="TV", GOL PERU
-http://home-playtv.com:8080/Tvperu/RRVXA/21773
-#EXTINF:0 type="stream" channelId="-1" group="TV", GOL PERU
-http://home-playtv.com:8080/Tvperu/RRVXA/69495
-#EXTINF:0 type="stream" channelId="-1" group="TV", GOL PERU
-http://xyz.lattv.com.co:8080/iptv-iks-2023/iks-iptv-2023/524258.ts
-#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png", LIGA 1 MAX
-http://home-playtv.com:8080/Tvperu/RRVXA/469158
-#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png", LIGA 1 MAX
-http://home-playtv.com:8080/Tvperu/RRVXA/478008
-#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png", LIGA 1 MAX SD
-http://home-playtv.com:8080/Tvperu/RRVXA/499709
-#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Liga_1.png", LIGA 1
-http://home-playtv.com:8080/Tvperu/RRVXA/478009
-#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png", MOVISTAR DEPORTES PERU
-http://home-playtv.com:8080/Tvperu/RRVXA/186611
-#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png", MOVISTAR DEPORTES PERU | HD
-http://home-playtv.com:8080/Tvperu/RRVXA/439746
+#EXTINF:-1,GOLPERU HD
+http://181.205.77.118:4849/play/CH30
+#EXTINF:-1,GolTV HD
+http://181.205.77.118:4849/play/CH32
+#EXTINF:-1,Movistar Deportes HD
+http://181.205.77.118:4849/play/CH149
+#EXTINF:-1,ESPN
+http://181.205.77.118:4849/play/a09l
+#EXTINF:-1,ESPN 2 HD
+http://181.205.77.118:4849/play/CH18
+#EXTINF:-1,ESPN 2 HD
+http://181.205.77.118:4849/play/a0bi
+#EXTINF:-1,ESPN 2 HD
+http://181.205.77.118:4849/play/a0au
+#EXTINF:-1,ESPN 3 HD
+http://181.205.77.118:4849/play/CH19
+#EXTINF:-1,ESPN 4 HD
+http://181.205.77.118:4849/play/CH147
+#EXTINF:-1,ESPN 5
+http://181.205.77.118:4849/play/CH28
+#EXTINF:-1,ESPN 6 HD
+http://181.205.77.118:4849/play/CH24
+#EXTINF:-1,ESPN 7 HD - FOX Sports 2 HD
+http://181.205.77.118:4849/play/CH23
+#EXTINF:-1,ESPN EXTRA HD
+http://181.205.77.118:4849/play/CH21
+#EXTINF:-1,ESPN HD
+http://181.205.77.118:4849/play/a0bm
+#EXTINF:-1,ESPN HD
+http://181.205.77.118:4849/play/a0a9
+#EXTINF:-1,ESPN HD
+http://181.205.77.118:4849/play/CH17
+#EXTINF:-1,ESPN HD PREMIUN - Fox Sports 1 HD
+http://181.205.77.118:4849/play/CH22
+#EXTINF:-1,TNT SPORTS 2
+http://181.205.77.118:4849/play/CH25
+#EXTINF:-1,TNT SPORTS HD
+http://181.205.77.118:4849/play/CH139
+#EXTINF:-1,TelefØ
+http://181.205.77.118:4849/play/a0c3
+#EXTINF:-1,TyC Sports HD
+http://181.205.77.118:4849/play/a0ah
+#EXTINF:-1,Win Sports HD
+http://181.205.77.118:4849/play/CH16
+#EXTINF:-1,Win Sports+ HD
+http://181.205.77.118:4849/play/CH14
+
+
+
